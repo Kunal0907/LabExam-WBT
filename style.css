@@ -1,0 +1,7 @@
+body {
+  background-color: antiquewhite;
+}
+.navbar {
+  box-shadow: 2px 2px rgb(255, 208, 146);
+  background-color: bisque !important;
+}
